@@ -1,16 +1,24 @@
-# Advanced Software Development - Exercise 2
+# Advanced Software Development - Exercise
 
-
+Awesome software to handle user registration, login and management.
 
 ## Installation
 
-https://golang.org/doc/install
+- Download/Install Go: https://golang.org/doc/install
+- Clone repository e.g.:
+  `
+  git clone https://gitlab.com/fh-campus/sde22-asd-exercise.git
+  `
 
 ```bash
-go get -u gorm.io/gorm
-go get -u gorm.io/driver/sqlite
-go get -u golang.org/x/crypto
+# Either run directly from source
+go run main.go
 
-go build # either build a binary               
-go run main.go # or directly run
+# Or build executable and run
+go build
+./sde22-asd-exercise
 ```
+
+## Authors 
+- Michael Irimus
+- Stefan Schmitzhofer

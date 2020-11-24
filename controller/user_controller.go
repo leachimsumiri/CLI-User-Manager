@@ -2,9 +2,10 @@ package controller
 
 import (
 	"errors"
-	"fh-asd-2/model"
-	"fh-asd-2/view"
 	"log"
+
+	"gitlab.com/fh-campus/sde22-asd-exercise/model"
+	"gitlab.com/fh-campus/sde22-asd-exercise/view"
 
 	"golang.org/x/crypto/bcrypt"
 	"gorm.io/gorm"

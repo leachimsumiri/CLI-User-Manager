@@ -1,9 +1,10 @@
 package view
 
 import (
-	"fh-asd-2/common"
 	"fmt"
 	"strings"
+
+	"gitlab.com/fh-campus/sde22-asd-exercise/common"
 )
 
 // DOEV: Könnte man noch aufbrechen in menu_output(*Menu) + menu_input(*Menu) um sich Kommentare zu ersparen (aber evtl zu "optimiert")

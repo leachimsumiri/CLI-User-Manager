@@ -1,11 +1,12 @@
 package controller
 
 import (
-	"fh-asd-2/common"
-	"fh-asd-2/model"
-	"fh-asd-2/view"
 	"os"
 	"time"
+
+	"gitlab.com/fh-campus/sde22-asd-exercise/common"
+	"gitlab.com/fh-campus/sde22-asd-exercise/model"
+	"gitlab.com/fh-campus/sde22-asd-exercise/view"
 )
 
 const (

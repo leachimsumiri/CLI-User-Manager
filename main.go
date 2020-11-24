@@ -1,7 +1,7 @@
 package main
 
 import (
-	"fh-asd-2/controller"
+	"gitlab.com/fh-campus/sde22-asd-exercise/controller"
 )
 
 func main() {

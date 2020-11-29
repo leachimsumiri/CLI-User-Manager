@@ -22,3 +22,7 @@ go build
 ## Authors 
 - Michael Irimus
 - Stefan Schmitzhofer
+
+###
+Old Repository (for git history):
+https://gitlab.com/fh-campus/software-engineering/asd-exercise-2

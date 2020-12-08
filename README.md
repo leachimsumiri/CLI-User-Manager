@@ -19,6 +19,16 @@ go build
 ./sde22-asd-exercise
 ```
 
+## Sonar Setup
+- Download Sonarqube: https://www.sonarqube.org/downloads/
+- Extract and run sonarqube server from bin folder (according to platfom)
+- Visit http://localhost:9000
+- Create a project, name and generate a token and answer project questions
+- Download the scanner via the therein included link 
+- Extract and add its `bin` directory to the %PATH% variable
+- Run the shown command from the project folder
+- See sonar results within the previous browser window
+
 ## Authors 
 - Michael Irimus
 - Stefan Schmitzhofer
